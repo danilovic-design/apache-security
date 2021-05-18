@@ -1,0 +1,1 @@
+Place the apache2 directory into /etc folder.
